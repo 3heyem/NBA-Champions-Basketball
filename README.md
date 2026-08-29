@@ -9,7 +9,7 @@ Custom UI: New interface added (Work in Progress).
 ```luau
 loadstring(game:HttpGet("https://raw.githubusercontent.com/3heyem/NBA-Champions-Basketball/refs/heads/main/autogreen"))() 
 ```
-Press F2 to open the UI (this can be changed in the Settings tab).
+Press F5 to open the UI (this can be changed in the Settings tab).
 
 ## Support
 Message @prodordie on Discord.
